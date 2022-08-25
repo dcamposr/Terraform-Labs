@@ -33,3 +33,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+../.DS_Store
+        ../modules/.DS_Store
+        ../modules/AWS/.DS_Store
