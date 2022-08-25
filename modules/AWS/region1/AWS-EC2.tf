@@ -1,6 +1,6 @@
 
 # ***************************************
-# *** EC2 Instances creation **
+# *** EC2 Instances creation ************
 # ***************************************
 resource "aws_instance" "JumpHost" {
     ami = "ami-0e4d9ed95865f3b40"
