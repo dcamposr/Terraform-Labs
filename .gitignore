@@ -34,6 +34,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-../.DS_Store
-        ../modules/.DS_Store
-        ../modules/AWS/.DS_Store
+**/../.DS_Store
+**/../modules/.DS_Store
+**/../modules/AWS/.DS_Store
