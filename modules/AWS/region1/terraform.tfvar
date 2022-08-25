@@ -1,0 +1,3 @@
+vpc-name=["Main_VPC","Remote_VPC"]  
+ec2-name=["JumpHost","VPC-A_EC2","VPC-B_EC2"]
+cidr_block=["10.0.0.0/16,10.10.0.0/16"]
